@@ -1,0 +1,45 @@
+// ---- Basics ---------------------------------------------------------------------------
+
+City Name: 
+City Type:
+City Population: 
+
+// ---- Stats ----------------------------------------------------------------------------
+
+Crime:
+ - Slum[{}] Undercity[{}] Drug den[{}] Black market[{}] Mercenaries[{}]
+
+Culture: 
+ - Inn[{}] Lodge[{}] Theater[{}] Park[{}] Amphitheater[{}]
+    
+Health: 
+ - Herbalist[{}] Apothecary[{}] Sewers[{}] Sanatorium[{}] Hospital[{}]
+    
+Military: 
+ - Barracks[{}] Stables[{}] Bastion[{}] Fortification[{}] Citadel[{}]
+    
+Order: 
+ - Castle[{}] Prison[{}] Keep[{}] Enforcement[{}] Court[{}]
+    
+Production: 
+ - Smithy[{}] Butcher[{}] Jeweler[{}] Alcemist[{}] Bookbinder[{}]
+    
+Recreation: 
+ - Spa[{}] Hot springs[{}] Sage[{}] Museum[{}] Restaurant[{}]
+    
+Reputation: 
+ - Statue[{}] Tribute[{}] Obelisk[{}] Pillar[{}] Monument[{}]
+    
+Tech: 
+ - Library[{}] School[{}] Academy[{}] Institution[{}] Citadel[{}]
+    
+Trade: 
+ - Market[{}] Warehouse[{}] Vendor[{}] Exchange[{}] Auciton house[{}]
+    
+Wealth: 
+ - Vault[{}] Mint[{}] Mines[{}] Stock[{}] Bank[{}] 
+    
+Worship: 
+ - Shrine[{}] Sanctuary[{}] Temple[{}] Sepulcher[{}] Sacred place[{}]
+
+Specialisation: 
