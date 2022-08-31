@@ -1,0 +1,1228 @@
+[10:12:04] - # STARTING GENERATOR #
+[10:12:04] - # USER INPUT RECIEVED #
+[10:12:04] - # BEGIN DATA  PROPOGATION #
+[10:12:04] - Population: 254
+[10:12:04] - Stat boundaries: 2 - 4
+[10:12:04] - Stat generated for recreation: 3
+[10:12:04] - Stat generated for military: 3
+[10:12:04] - Stat generated for tech: 3
+[10:12:04] - Stat generated for crime: 4
+[10:12:04] - Stat generated for production: 2
+[10:12:04] - Stat generated for reputation: 3
+[10:12:04] - Stat generated for worship: 2
+[10:12:04] - Stat generated for order: 2
+[10:12:04] - Stat generated for culture: 2
+[10:12:04] - Stat generated for wealth: 2
+[10:12:04] - Stat generated for trade: 2
+[10:12:04] - Stat generated for health: 4
+[10:12:04] - New locations for recreation: [' ', ' ', ' ', 'x', 'x']
+[10:12:04] - New locations for military: [' ', ' ', ' ', 'x', ' ']
+[10:12:04] - New locations for tech: [' ', ' ', 'x', ' ', ' ']
+[10:12:04] - New locations for crime: [' ', ' ', 'x', 'x', ' ']
+[10:12:04] - New locations for production: [' ', ' ', ' ', ' ', ' ']
+[10:12:04] - New locations for reputation: [' ', ' ', 'x', ' ', ' ']
+[10:12:04] - New locations for worship: [' ', ' ', ' ', ' ', 'x']
+[10:12:04] - New locations for order: [' ', ' ', ' ', ' ', ' ']
+[10:12:04] - New locations for culture: [' ', ' ', ' ', ' ', ' ']
+[10:12:04] - New locations for wealth: [' ', 'x', ' ', ' ', ' ']
+[10:12:04] - New locations for trade: [' ', 'x', ' ', ' ', ' ']
+[10:12:04] - New locations for health: [' ', ' ', ' ', ' ', 'x']
+[10:12:04] - New specialities: {'militaristic': 5, 'cultural': 5, 'mercantile': 4, 'industrial': 6, 'agriculture': 7, 'education': 5}
+[10:12:04] - New specialities: 1-agriculture 2-industrial
+[10:12:04] - # READING SHEET TEMPLATE #
+[10:12:04] - # RECONSTRUCTING TEMPLATE #
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City name set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City type set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City population set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Crime set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Culture set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Health set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Military set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Order set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Production set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Recreation set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Reputation set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Tech set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Trade set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Wealth set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - City stat Worship set
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - Tokenizing line
+[10:12:04] - Matching first token as line ID
+[10:12:04] - Grabbing new line
+[10:12:04] - # CREATING NEW SHEET AND DIRECTORY #
+[10:12:04] - # WRITING DATA TO FILE #
+[10:12:04] - # Sheet output to 10-12-04.txt in the folder ./output/28-05-2021 #
+
+
+[10:12:17] - # STARTING GENERATOR #
+[10:12:18] - # USER INPUT RECIEVED #
+[10:12:18] - # BEGIN DATA  PROPOGATION #
+[10:12:18] - Population: 222
+[10:12:18] - Stat boundaries: 2 - 4
+[10:12:18] - Stat generated for health: 2
+[10:12:18] - Stat generated for culture: 3
+[10:12:18] - Stat generated for military: 3
+[10:12:18] - Stat generated for wealth: 2
+[10:12:18] - Stat generated for production: 3
+[10:12:18] - Stat generated for order: 2
+[10:12:18] - Stat generated for crime: 2
+[10:12:18] - Stat generated for worship: 4
+[10:12:18] - Stat generated for reputation: 2
+[10:12:18] - Stat generated for tech: 2
+[10:12:18] - Stat generated for recreation: 3
+[10:12:18] - Stat generated for trade: 4
+[10:12:18] - New locations for health: [' ', ' ', ' ', ' ', ' ']
+[10:12:18] - New locations for culture: [' ', ' ', ' ', ' ', ' ']
+[10:12:18] - New locations for military: [' ', ' ', 'x', ' ', ' ']
+[10:12:18] - New locations for wealth: [' ', ' ', ' ', ' ', 'x']
+[10:12:18] - New locations for production: [' ', ' ', 'x', ' ', 'x']
+[10:12:18] - New locations for order: [' ', ' ', ' ', 'x', ' ']
+[10:12:18] - New locations for crime: [' ', ' ', ' ', ' ', ' ']
+[10:12:18] - New locations for worship: [' ', ' ', ' ', 'x', ' ']
+[10:12:18] - New locations for reputation: [' ', 'x', ' ', ' ', ' ']
+[10:12:18] - New locations for tech: [' ', ' ', ' ', ' ', 'x']
+[10:12:18] - New locations for recreation: [' ', ' ', 'x', 'x', ' ']
+[10:12:18] - New locations for trade: [' ', ' ', 'x', ' ', ' ']
+[10:12:18] - New specialities: {'education': 6, 'mercantile': 6, 'cultural': 6, 'industrial': 5, 'agriculture': 4, 'militaristic': 5}
+[10:12:18] - New specialities: 1-cultural 2-mercantile
+[10:12:18] - # READING SHEET TEMPLATE #
+[10:12:18] - # RECONSTRUCTING TEMPLATE #
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City name set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City type set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City population set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Crime set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Culture set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Health set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Military set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Order set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Production set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Recreation set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Reputation set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Tech set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Trade set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Wealth set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat Worship set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - City stat locations set
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - Tokenizing line
+[10:12:18] - Matching first token as line ID
+[10:12:18] - Grabbing new line
+[10:12:18] - # CREATING NEW SHEET AND DIRECTORY #
+[10:12:18] - # WRITING DATA TO FILE #
+[10:12:18] - # Sheet output to 10-12-18.txt in the folder ./output/28-05-2021 #
+
+
+[10:13:19] - # STARTING GENERATOR #
+[10:13:19] - # USER INPUT RECIEVED #
+[10:13:19] - # BEGIN DATA  PROPOGATION #
+[10:13:19] - Population: 300
+[10:13:19] - Stat boundaries: 2 - 4
+[10:13:19] - Stat generated for reputation: 2
+[10:13:19] - Stat generated for recreation: 4
+[10:13:19] - Stat generated for tech: 2
+[10:13:19] - Stat generated for worship: 3
+[10:13:19] - Stat generated for order: 2
+[10:13:19] - Stat generated for crime: 3
+[10:13:19] - Stat generated for culture: 4
+[10:13:19] - Stat generated for trade: 2
+[10:13:19] - Stat generated for wealth: 2
+[10:13:19] - Stat generated for military: 2
+[10:13:19] - Stat generated for production: 4
+[10:13:19] - Stat generated for health: 4
+[10:13:19] - New locations for reputation: [' ', ' ', ' ', ' ', 'x']
+[10:13:19] - New locations for recreation: [' ', ' ', 'x', ' ', ' ']
+[10:13:19] - New locations for tech: [' ', ' ', ' ', ' ', 'x']
+[10:13:19] - New locations for worship: [' ', ' ', 'x', ' ', 'x']
+[10:13:19] - New locations for order: [' ', 'x', ' ', ' ', ' ']
+[10:13:19] - New locations for crime: [' ', ' ', ' ', ' ', ' ']
+[10:13:19] - New locations for culture: [' ', ' ', ' ', 'x', 'x']
+[10:13:19] - New locations for trade: [' ', ' ', ' ', ' ', ' ']
+[10:13:19] - New locations for wealth: [' ', ' ', ' ', ' ', ' ']
+[10:13:19] - New locations for military: [' ', ' ', 'x', ' ', ' ']
+[10:13:19] - New locations for production: [' ', ' ', 'x', 'x', ' ']
+[10:13:19] - New locations for health: [' ', ' ', 'x', 'x', ' ']
+[10:13:19] - New specialities: {'cultural': 8, 'militaristic': 4, 'agriculture': 6, 'mercantile': 4, 'industrial': 7, 'education': 5}
+[10:13:19] - New specialities: 1-cultural 2-
+[10:13:19] - # READING SHEET TEMPLATE #
+[10:13:19] - # RECONSTRUCTING TEMPLATE #
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City name set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City type set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City population set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Crime set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Culture set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Health set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Military set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Order set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Production set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Recreation set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Reputation set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Tech set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Trade set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Wealth set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat Worship set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - City stat locations set
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - Tokenizing line
+[10:13:19] - Matching first token as line ID
+[10:13:19] - Grabbing new line
+[10:13:19] - # CREATING NEW SHEET AND DIRECTORY #
+[10:13:19] - # WRITING DATA TO FILE #
+[10:13:19] - # Sheet output to 10-13-19.txt in the folder ./output/28-05-2021 #
+
+
+[10:13:36] - # STARTING GENERATOR #
+[10:13:37] - # USER INPUT RECIEVED #
+[10:13:37] - # BEGIN DATA  PROPOGATION #
+[10:13:37] - Population: 24889
+[10:13:37] - Stat boundaries: 5 - 8
+[10:13:37] - Stat generated for reputation: 5
+[10:13:37] - Stat generated for health: 8
+[10:13:37] - Stat generated for production: 8
+[10:13:37] - Stat generated for worship: 8
+[10:13:37] - Stat generated for wealth: 8
+[10:13:37] - Stat generated for military: 8
+[10:13:37] - Stat generated for crime: 8
+[10:13:37] - Stat generated for tech: 8
+[10:13:37] - Stat generated for order: 7
+[10:13:37] - Stat generated for trade: 7
+[10:13:37] - Stat generated for culture: 8
+[10:13:37] - Stat generated for recreation: 5
+[10:13:48] - # STARTING GENERATOR #
+[10:13:48] - # USER INPUT RECIEVED #
+[10:13:48] - # BEGIN DATA  PROPOGATION #
+[10:13:48] - Population: 190
+[10:13:48] - Stat boundaries: 2 - 4
+[10:13:48] - Stat generated for order: 4
+[10:13:48] - Stat generated for crime: 2
+[10:13:48] - Stat generated for recreation: 4
+[10:13:48] - Stat generated for wealth: 3
+[10:13:48] - Stat generated for reputation: 2
+[10:13:48] - Stat generated for health: 4
+[10:13:48] - Stat generated for production: 2
+[10:13:48] - Stat generated for worship: 3
+[10:13:48] - Stat generated for tech: 2
+[10:13:48] - Stat generated for culture: 4
+[10:13:48] - Stat generated for trade: 4
+[10:13:48] - Stat generated for military: 2
+[10:13:48] - New locations for order: [' ', ' ', ' ', 'x', ' ']
+[10:13:48] - New locations for crime: [' ', 'x', ' ', ' ', ' ']
+[10:13:48] - New locations for recreation: [' ', ' ', 'x', ' ', ' ']
+[10:13:48] - New locations for wealth: [' ', 'x', ' ', ' ', ' ']
+[10:13:48] - New locations for reputation: [' ', ' ', ' ', 'x', ' ']
+[10:13:48] - New locations for health: [' ', ' ', ' ', ' ', 'x']
+[10:13:48] - New locations for production: [' ', ' ', 'x', ' ', ' ']
+[10:13:48] - New locations for worship: [' ', ' ', ' ', ' ', ' ']
+[10:13:48] - New locations for tech: [' ', ' ', ' ', 'x', ' ']
+[10:13:48] - New locations for culture: [' ', ' ', ' ', 'x', 'x']
+[10:13:48] - New locations for trade: [' ', ' ', 'x', 'x', ' ']
+[10:13:48] - New locations for military: [' ', ' ', 'x', ' ', ' ']
+[10:13:48] - New specialities: {'education': 5, 'industrial': 4, 'agriculture': 6, 'militaristic': 6, 'mercantile': 7, 'cultural': 8}
+[10:13:48] - New specialities: 1-cultural 2-mercantile
+[10:13:48] - # READING SHEET TEMPLATE #
+[10:13:48] - # RECONSTRUCTING TEMPLATE #
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City name set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City type set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City population set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Crime set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Culture set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Health set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Military set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Order set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Production set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Recreation set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Reputation set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Tech set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Trade set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Wealth set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat Worship set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - City stat locations set
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - Tokenizing line
+[10:13:48] - Matching first token as line ID
+[10:13:48] - Grabbing new line
+[10:13:48] - # CREATING NEW SHEET AND DIRECTORY #
+[10:13:48] - # WRITING DATA TO FILE #
+[10:13:48] - # Sheet output to 10-13-48.txt in the folder ./output/28-05-2021 #
+
+
+[10:14:07] - # STARTING GENERATOR #
+[10:14:09] - # USER INPUT RECIEVED #
+[10:14:09] - # BEGIN DATA  PROPOGATION #
+[10:14:09] - Population: 27195
+[10:14:09] - Stat boundaries: 5 - 8
+[10:14:09] - Stat generated for worship: 7
+[10:14:09] - Stat generated for health: 7
+[10:14:09] - Stat generated for trade: 5
+[10:14:09] - Stat generated for reputation: 6
+[10:14:09] - Stat generated for crime: 6
+[10:14:09] - Stat generated for military: 8
+[10:14:09] - Stat generated for wealth: 7
+[10:14:09] - Stat generated for tech: 5
+[10:14:09] - Stat generated for culture: 5
+[10:14:09] - Stat generated for production: 6
+[10:14:09] - Stat generated for order: 7
+[10:14:09] - Stat generated for recreation: 8
+[10:16:17] - # STARTING GENERATOR #
+[10:16:18] - # USER INPUT RECIEVED #
+[10:16:18] - # BEGIN DATA  PROPOGATION #
+[10:16:18] - Population: 24639
+[10:16:18] - Stat boundaries: 5 - 8
+[10:16:18] - Stat generated for recreation: 8
+[10:16:18] - Stat generated for wealth: 8
+[10:16:18] - Stat generated for worship: 7
+[10:16:18] - Stat generated for trade: 6
+[10:16:18] - Stat generated for culture: 6
+[10:16:18] - Stat generated for production: 5
+[10:16:18] - Stat generated for crime: 8
+[10:16:18] - Stat generated for tech: 7
+[10:16:18] - Stat generated for order: 6
+[10:16:18] - Stat generated for reputation: 7
+[10:16:18] - Stat generated for military: 5
+[10:16:18] - Stat generated for health: 5
+[10:16:18] - New locations for recreation: ['x', ' ', 'x', 'x', 'x']
+[10:16:18] - New locations for wealth: ['x', 'x', 'x', 'x', 'x']
+[10:16:18] - New locations for worship: ['x', 'x', ' ', ' ', ' ']
+[10:16:18] - New locations for trade: ['x', ' ', ' ', ' ', ' ']
+[10:16:18] - New locations for culture: ['x', 'x', ' ', ' ', 'x']
+[10:16:18] - New locations for production: ['x', 'x', ' ', 'x', ' ']
+[10:16:18] - New locations for crime: [' ', 'x', ' ', 'x', ' ']
+[10:16:18] - New locations for tech: ['x', 'x', 'x', ' ', 'x']
+[10:16:18] - New locations for order: ['x', 'x', ' ', ' ', 'x']
+[10:16:18] - New locations for reputation: ['x', 'x', 'x', 'x', ' ']
+[10:16:18] - New locations for military: ['x', 'x', 'x', ' ', ' ']
+[10:16:18] - New locations for health: ['x', 'x', ' ', ' ', ' ']
+[10:16:18] - New specialities: {'mercantile': 14, 'cultural': 14, 'agriculture': 12, 'militaristic': 11, 'education': 14, 'industrial': 13}
+[10:16:18] - New specialities: 1-education 2-cultural
+[10:16:18] - # READING SHEET TEMPLATE #
+[10:16:18] - # RECONSTRUCTING TEMPLATE #
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City name set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City type set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City population set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Crime set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Culture set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Health set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Military set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Order set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Production set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Recreation set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Reputation set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Tech set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Trade set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Wealth set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat Worship set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - City stat locations set
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - Tokenizing line
+[10:16:18] - Matching first token as line ID
+[10:16:18] - Grabbing new line
+[10:16:18] - # CREATING NEW SHEET AND DIRECTORY #
+[10:16:18] - # WRITING DATA TO FILE #
+[10:16:18] - # Sheet output to 10-16-18.txt in the folder ./output/28-05-2021 #
+
+
+[10:26:22] - # STARTING GENERATOR #
+[10:26:24] - # USER INPUT RECIEVED #
+[10:26:24] - # BEGIN DATA  PROPOGATION #
+[10:26:24] - Population: 240
+[10:26:24] - Stat boundaries: 2 - 4
+[10:26:24] - Stat generated for military: 3
+[10:26:24] - Stat generated for reputation: 4
+[10:26:24] - Stat generated for trade: 3
+[10:26:24] - Stat generated for culture: 4
+[10:26:24] - Stat generated for order: 4
+[10:26:24] - Stat generated for tech: 4
+[10:26:24] - Stat generated for production: 3
+[10:26:24] - Stat generated for crime: 4
+[10:26:24] - Stat generated for worship: 4
+[10:26:24] - Stat generated for wealth: 3
+[10:26:24] - Stat generated for health: 2
+[10:26:24] - Stat generated for recreation: 2
+[10:26:24] - New locations for military: [' ', ' ', ' ', ' ', ' ']
+[10:26:24] - New locations for reputation: [' ', 'x', ' ', ' ', ' ']
+[10:26:24] - New locations for trade: ['x', ' ', ' ', ' ', 'x']
+[10:26:24] - New locations for culture: [' ', 'x', 'x', ' ', ' ']
+[10:26:24] - New locations for order: [' ', ' ', ' ', ' ', 'x']
+[10:26:24] - New locations for tech: [' ', 'x', 'x', ' ', ' ']
+[10:26:24] - New locations for production: ['x', ' ', ' ', ' ', ' ']
+[10:26:24] - New locations for crime: ['x', ' ', ' ', ' ', ' ']
+[10:26:24] - New locations for worship: [' ', 'x', 'x', ' ', ' ']
+[10:26:24] - New locations for wealth: [' ', ' ', ' ', ' ', ' ']
+[10:26:24] - New locations for health: [' ', ' ', 'x', ' ', ' ']
+[10:26:24] - New locations for recreation: [' ', ' ', ' ', ' ', ' ']
+[10:26:24] - New specialities: {'militaristic': 7, 'agriculture': 6, 'industrial': 7, 'cultural': 6, 'education': 8, 'mercantile': 6}
+[10:26:24] - New specialities: 1-education 2-industrial
+[10:26:24] - # READING SHEET TEMPLATE #
+[10:26:24] - # RECONSTRUCTING TEMPLATE #
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City name set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City type set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City population set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Crime set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Culture set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Health set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Military set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Order set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Production set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Recreation set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Reputation set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Tech set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Trade set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Wealth set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat Worship set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - City stat locations set
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - Tokenizing line
+[10:26:24] - Matching first token as line ID
+[10:26:24] - Grabbing new line
+[10:26:24] - # CREATING NEW SHEET AND DIRECTORY #
+[10:26:24] - # WRITING DATA TO FILE #
+[10:26:24] - # Sheet output to 10-26-24.txt in the folder ./output/28-05-2021 #
+
+

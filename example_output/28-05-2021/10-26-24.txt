@@ -1,0 +1,45 @@
+// ---- Basics ---------------------------------------------------------------------------
+
+City Name: Generic City
+City Type: Hamlet
+City Population: 240
+
+// ---- Stats ----------------------------------------------------------------------------
+
+Crime: 4
+ - Slum[x] Undercity[ ] Drug den[ ] Black market[ ] Mercenaries[ ]
+
+Culture: 4
+ - Inn[ ] Lodge[x] Theater[x] Park[ ] Amphitheater[ ]
+
+Health: 2
+ - Herbalist[ ] Apothecary[ ] Sewers[x] Sanatorium[ ] Hospital[ ]
+
+Military: 3
+ - Barracks[ ] Stables[ ] Bastion[ ] Fortification[ ] Citadel[ ]
+
+Order: 4
+ - Castle[ ] Prison[ ] Keep[ ] Enforcement[ ] Court[x]
+
+Production: 3
+ - Smithy[x] Butcher[ ] Jeweler[ ] Alcemist[ ] Bookbinder[ ]
+
+Recreation: 2
+ - Spa[ ] Hot springs[ ] Sage[ ] Museum[ ] Restaurant[ ]
+
+Reputation: 4
+ - Statue[ ] Tribute[x] Obelisk[ ] Pillar[ ] Monument[ ]
+
+Tech: 4
+ - Library[ ] School[x] Academy[x] Institution[ ] Citadel[ ]
+
+Trade: 3
+ - Market[x] Warehouse[ ] Vendor[ ] Exchange[ ] Auciton house[x]
+
+Wealth: 3
+ - Vault[ ] Mint[ ] Mines[ ] Stock[ ] Bank[ ]
+
+Worship: 4
+ - Shrine[ ] Sanctuary[x] Temple[x] Sepulcher[ ] Sacred place[ ]
+
+Specialisation: #1 education || #2 industrial

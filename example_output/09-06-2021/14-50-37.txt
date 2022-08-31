@@ -1,0 +1,45 @@
+// ---- Basics ---------------------------------------------------------------------------
+
+City Name: Generic City
+City Type: Large town
+City Population: 7935
+
+// ---- Stats ----------------------------------------------------------------------------
+
+Crime: 7
+ - Slum[x] Undercity[ ] Drug den[ ] Black market[ ] Mercenaries[x]
+
+Culture: 4
+ - Inn[ ] Lodge[x] Theater[ ] Park[ ] Amphitheater[x]
+
+Health: 6
+ - Herbalist[x] Apothecary[x] Sewers[x] Sanatorium[x] Hospital[ ]
+
+Military: 4
+ - Barracks[ ] Stables[ ] Bastion[ ] Fortification[x] Citadel[x]
+
+Order: 5
+ - Castle[x] Prison[ ] Keep[ ] Enforcement[ ] Court[x]
+
+Production: 5
+ - Smithy[ ] Butcher[ ] Jeweler[x] Alcemist[ ] Bookbinder[ ]
+
+Recreation: 6
+ - Spa[x] Hot springs[x] Sage[ ] Museum[x] Restaurant[x]
+
+Reputation: 6
+ - Statue[x] Tribute[x] Obelisk[x] Pillar[x] Monument[ ]
+
+Tech: 6
+ - Library[x] School[ ] Academy[x] Institution[x] Citadel[ ]
+
+Trade: 6
+ - Market[x] Warehouse[x] Vendor[x] Exchange[ ] Auciton house[x]
+
+Wealth: 5
+ - Vault[ ] Mint[ ] Mines[x] Stock[x] Bank[x]
+
+Worship: 5
+ - Shrine[x] Sanctuary[x] Temple[x] Sepulcher[ ] Sacred place[ ]
+
+Specialisation: #1 agriculture || #2 industrial
